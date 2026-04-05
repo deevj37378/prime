@@ -1,1 +1,8 @@
-export const productData = {};
+export const productData = {
+  postSequenceContent: {
+    hydrationSpecs: {
+      title: "",
+      description: "",
+    },
+  },
+};
